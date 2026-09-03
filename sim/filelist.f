@@ -1,0 +1,9 @@
++incdir+../tb
++incdir+../tb/interfaces
++incdir+../tb/agents/spi_agent
++incdir+../tb/env
++incdir+../tb/sequences
++incdir+../tb/tests
+../tb/interfaces/spi_if.sv
+../tb/spi_tb_pkg.sv
+../tb/spi_tb_top.sv
